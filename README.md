@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matt! Nice to meet you!</h1>
 
 
-<style>
-
-</style>
-
 
 <p align="center">
 <a href="https://twitter.com/mjbramich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjbramich" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/mjbramich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mjbramich" height="40" width="50" /></a>
 </p>
 
-<p align=center style='font-weight:500;font-family:arial;font-size:16px '>As a Fullstack developer based in Australia, I bring a unique perspective to software development with my background in both electrical and communications work. <br> I'm passionate about using my skills to help others achieve their goals and enjoy tackling complex problems and creating high-quality software using the MERN stack. Whether I'm building user-friendly interfaces or developing complex backend systems, I bring a commitment to quality and attention to detail to every project. <br> In addition to my work, I have a passion for sports, enjoy exploring new places, going to live shows, and trying new foods. <br> Let's connect and create something amazing together! <br> 📫 How to reach me **mjbramich6@gmail.com** </p>
+<p align=center style='font-weight:500;font-family:arial;font-size:16px '>As a Fullstack developer based in Australia, I bring a unique perspective to software development with my background in both electrical and communications work. <br> I'm passionate about using my skills to help others achieve their goals and enjoy tackling complex problems and creating high-quality software using the MERN stack. Whether I'm building user-friendly interfaces or developing complex backend systems, I bring a commitment to quality and attention to detail to every project. <br> In addition to my work, I have a passion for sports, enjoy exploring new places, going to live shows, and trying new foods. <br> Let's connect and create something amazing together! <br> 📫 How to reach me: mjbramich6@gmail.com </p>
   
 
 
