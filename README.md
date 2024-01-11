@@ -11,8 +11,8 @@
     <a href="https://mjbramich.dev" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
-<a href="https://github.com/mjbramich" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://bio.link/mjbramich" target="_blank">
+<img src=https://img.shields.io/badge/links-4ACBD6?style=for-the-badge&logo=biolink&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/mjbramich" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -21,6 +21,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
 
 
 <div class="flex flex-col w-full">
@@ -85,7 +86,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/rcmtcristian/botanic" target="_blank">
+  <a href="https://github.com/mjbramich/kangas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
   <a href="https://lucky-creponne-757be7.netlify.app" target="_blank">
