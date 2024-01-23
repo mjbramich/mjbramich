@@ -6,7 +6,6 @@
 
 <h1 align="center">Hey there!</h1>
 
-
 <div align="center">
     <a href="https://mjbramich.dev" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin-bottom: 5px;"/>
@@ -20,18 +19,16 @@
 <a href="https://linkedin.com/in/mjbramich" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
-
+</div>
 
 <div class="flex flex-col w-full">
   <div class="grid h-20 card bg-base-300 rounded-box place-items-center"><h3 align="center">I'm a software engineer with a passion for building innovative solutions and solving real world problems. I enjoy working on projects that challenge me to learn and grow.</h3>  </div> 
-  <div class="divider"></div> 
+  <div class="divider"></div>
 
+### About Me:
 
-### About Me:   
 - 🔭 I’m currently working on Playmaker vintage
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning Python & SQL
 - 👯 I’m looking to collaborate with others on Projects and OpenSource
 - 💬 Talk to me about React, CSS, Sports and Music
 
@@ -54,22 +51,22 @@
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />  
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-<br> 
+<br>
 
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Hello World](https://mjbramich.dev/blog/helloworld)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Jamming To:
+
 [![Spotify](https://spotify-github-git-main-mjbramich.vercel.app/api/spotify)](https://open.spotify.com/user/12138106926)
 
-
 </div>
-
 
 ## Projects
 
@@ -97,13 +94,13 @@
     <td width="50%" valign="top">
       <h3 align="center">	Playmaker Vintage (COMING SOON)</h3>
         <br />
-      <a target="_blank" href="https://github.com/mjbramich">
+      <a target="_blank" href="https://github.com/mjbramich/ecommerce-dashboard">
             <img src="https://i.imgur.com/FlW4zFT.png" width="100%"  alt="Playmaker Vintage logo"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://https://github.com/mjbramich" target="_blank">
+  <a href="https://github.com/mjbramich/ecommerce-dashboard" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
       </p>
@@ -150,14 +147,7 @@
 
 <br/>
 
-
 <!---
 Matty035/Matty035 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
-
-
