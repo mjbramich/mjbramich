@@ -129,7 +129,7 @@
       <h3 align="center">Gutter Gladiators</h3>
       <br />
         <a target="_blank" href="https://guttergladiators.com.au">
-          <img src="https://imgur.com/1s9zWGz" width="100%" alt="Screenshot of Gutter Gladiators home page"/>
+          <img src="https://res.cloudinary.com/dnphod5n3/image/upload/v1714202830/Screenshot_2024-04-27_171746_oc09gr.png" width="100%" alt="Screenshot of Gutter Gladiators home page"/>
       <br />
         <p align="center">
   <a href="https://github.com/mjbramich/gutter-gladiators" target="_blank">
