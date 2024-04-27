@@ -58,6 +58,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Hello World](https://mjbramich.dev/blog/helloworld)
 <!-- BLOG-POST-LIST:END -->
 
@@ -124,7 +125,26 @@
       </p>
         <p><strong>Next.js, TypeScript, CSS, MDX </strong> - Explore my portfolio site for a showcase of projects, additional project links, a blog section, and convenient ways to connect with me.</p>
     </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
+      <h3 align="center">Gutter Gladiators</h3>
+      <br />
+        <a target="_blank" href="https://guttergladiators.com.au">
+          <img src="https://imgur.com/1s9zWGz" width="100%" alt="Screenshot of Gutter Gladiators home page"/>
+      <br />
+        <p align="center">
+  <a href="https://github.com/mjbramich/gutter-gladiators" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://guttergladiators.com.au" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+      </p>
+        <p><strong>Astro, TypeScript, tailwindCSS, MDX </strong> - Created a modern website for a gutter cleaning business, showcasing their expertise and reliability.</p>
+    </td>
+
+  </tr>
+   <tr >
+       <td width="50%" valign="top">
       <h3 align="center">Kandoo</h3>
         <br />
         <a target="_blank" href="https://kandoo.onrender.com/">
