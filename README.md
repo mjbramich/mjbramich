@@ -58,7 +58,6 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Hello World](https://mjbramich.dev/blog/helloworld)
 <!-- BLOG-POST-LIST:END -->
 
