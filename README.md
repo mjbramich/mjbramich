@@ -92,7 +92,7 @@
         <p><strong>HTML, CSS, JavaScript, Webpack</strong> - Designed and developed a website for a local property maintenance business, providing an effective platform to showcase their portfolio of work. </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">	Playmaker Vintage (COMING SOON)</h3>
+      <h3 align="center">	Playmaker Vintage</h3>
         <br />
       <a target="_blank" href="https://github.com/mjbramich/ecommerce-dashboard">
             <img src="https://i.imgur.com/FlW4zFT.png" width="100%"  alt="Playmaker Vintage logo"/>
@@ -103,8 +103,11 @@
   <a href="https://github.com/mjbramich/ecommerce-dashboard" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://playmaker-vintage.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
       </p>
-        <p><strong>Next.js, Typescript, MySQL, TailwindCSS</strong> - An upcoming ecommerce store for a vintage clothing business, built with Next.js and featuring seamless Stripe integration.</p>
+        <p><strong>Next.js, Typescript, postgreSQL, TailwindCSS</strong> - A ecommerce store for a vintage clothing business including a CMS to handle inventory management. Featuring seamless Stripe integration.</p>
     </td>
   </tr>
   
