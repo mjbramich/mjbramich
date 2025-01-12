@@ -55,10 +55,11 @@
 
 <br>
 
-### 📕 Latest Blog Posts:
+
+<!-- ### 📕 Latest Blog Posts: -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://mjbramich.dev/blog/helloworld)
+<!-- - [Hello World](https://mjbramich.dev/blog/helloworld) -->
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Jamming To:
